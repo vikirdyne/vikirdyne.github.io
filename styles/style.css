@@ -1,0 +1,33 @@
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: chocolate;
+  text-shadow: 3px 3px 1px black;
+  font-size: 60px;
+  text-align: center;
+  font-family: salsa, sans-serif;
+}
+
+p,
+li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+  font-family: Macondo, sans-serif;
+}
+
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+}
